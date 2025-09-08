@@ -14,7 +14,7 @@ Bonus sections are also added for extra points.
 * ⚛️ React (with Vite + TypeScript)
 * 🎨 TailwindCSS (styling)
 * 🎬 Framer Motion (animations & transitions)
-* 🌍 Deployed on \[Vercel/Netlify]
+* 🌍 Deployed on Vercel
 
 ---
 
@@ -75,13 +75,13 @@ App will be running at:
 
 ## 🌍 Live Demo
 
-🔗 **Hosted URL**: \[Add your Vercel/Netlify link here]
+🔗 **Hosted URL**: https://fission-infotech-assessment.vercel.app/
 
 ---
 
 ## 📤 Submission Details
 
-✅ Live Hosted URL
+✅ Live Hosted URL : https://fission-infotech-assessment.vercel.app/
 💻 GitHub Repository: [https://github.com/yuvaakhil/Fission-Infotech\_assessment](https://github.com/yuvaakhil/Fission-Infotech_assessment)
 
 ---
