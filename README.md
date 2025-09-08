@@ -91,4 +91,3 @@ App will be running at:
 **Yuva Akhil Pattela**
 
 
-Would you like me to also **write a shorter professional README** (just Overview + Tech + Hosted URL) for submission, and keep this **long one** as the repo documentation?
